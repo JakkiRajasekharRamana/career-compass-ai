@@ -1,6 +1,5 @@
 # 🚀 CareerCompass AI: Personalized Career & Skills Advisor
 
-[![GitHub stars](https://img.shields.io/github/stars/JakkiRajasekharRamana/careercompass-ai?style=social)](https://github.com/JakkiRajasekharRamana/careercompass-ai)
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Built with](https://img.shields.io/badge/Built%20With-Google%20Cloud-4285F4.svg)](https://cloud.google.com/vertex-ai)
 
